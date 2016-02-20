@@ -1,3 +1,6 @@
+<h1>NOTE</h1>
+This repository is a copy of the original PebbleSeizureDetect at (https://github.com/PebbleSeizureDetect/PebbleSeizureDetect.git) that has been converted to use the native pebble build system for comparison with the OpenSeizureDetector Pebble_SD seizure detector watch app - Please do not use it, or report issues with it - look at the original instead.
+
 <h2>PEBBLE SEIZURE DETECT</h2>
 
 "Pebble Seizure Detect" is an open-source piece of software designed to aid people who experience tonic-clonic seizures.  It attempts to detect rhythmic motions of the Pebble watch in the frequency range typically seen during tonic-clonic seizures.  If a potential seizure is detected, the app will automatically send text messages to the phone numbers you specify during setup.  The text messages include a link to a Google Map showing the wearer's last known GPS location.  For a full list of features, read on, below.
