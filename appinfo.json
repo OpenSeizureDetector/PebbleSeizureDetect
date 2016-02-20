@@ -1,0 +1,19 @@
+{
+  "uuid": "345d43e0-d91c-41f6-8750-baea875e9db4",
+  "shortName": "PebbleSeizureDetect",
+  "longName": "PebbleSeizureDetect",
+  "companyName": "MakeAwesomeHappen",
+  "versionLabel": "1.0",
+  "sdkVersion": "3",
+  "targetPlatforms": ["aplite", "basalt", "chalk"],
+  "enableMultiJS": true,
+  "watchapp": {
+    "watchface": false
+  },
+  "appKeys": {
+    "dummy": 0
+  },
+  "resources": {
+    "media": []
+  }
+}
